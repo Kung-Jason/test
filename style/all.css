@@ -1,10 +1,11 @@
 @charset "UTF-8";
-a{
- text-transform: uppercase;
-}
 body{
     background-color: rgb(235, 239, 164);
 }
+a{
+ text-transform: uppercase;
+}
+
 h1{
     color: rgb(75, 142, 157);
 }
